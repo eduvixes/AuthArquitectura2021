@@ -15,3 +15,10 @@ autenticacion con headers php https://www.php.net/manual/es/features.http-auth.p
 
 $_SERVER php https://www.php.net/manual/es/features.http-auth.php
 
+
+Diseño
+
+http://www.mashup-template.com/preview.html?template=pure
+https://html5-templates.com/
+https://html5-templates.com/preview/html5-page-layout.html
+
