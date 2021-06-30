@@ -26,8 +26,11 @@ https://blog.educacionit.com/2017/08/16/guia-sobre-como-utilizar-curl-en-php/
 sudo apt-get install php-curl
 
 cookies con curl http://www.forosdelweb.com/f18/duda-con-curl-mantener-sesion-828950/
+
 session_commit http://www.forosdelweb.com/f18/curl-propagar-sesion-llamada-895520/
+
 cookies con curl http://www.forosdelweb.com/f18/hacer-login-con-curl-767887/
+
 mas prometedor https://www.it-swarm-es.com/es/php/como-mantener-la-sesion-en-curl-en-php/968062242/
 
 Diseño
